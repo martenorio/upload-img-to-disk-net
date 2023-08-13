@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOTM7AgZW0KJO1jM+K9z+bCIrGvVHGc6D5ZmJWv/8Gf+IFYnH2DtC0rnpqgCIj4iJkeyYRsOYwCIVi+/0nGWXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Migue\\Documents\\projects\\upload-images-to-disk-Net\\upload-images-to-disk-Net\\upload-images-to-disk-Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Migue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Migue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
